@@ -90,3 +90,17 @@ h1{
     margin-bottom: 30px;
     opacity: 0.7;
 }
+.rgb{;
+    padding: 10px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    opacity: 0.7;
+    background: rgba(64, 224, 208, 0.3);
+}
+.rgbo{;
+    padding: 10px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    opacity: 0.7;
+    background: rgba(64, 224, 208);
+}
