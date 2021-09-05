@@ -1,0 +1,53 @@
+body{
+    background-image: url("img/marek-piwnicki-zLu_XL1Frnw-unsplash.jpg");
+    color: white;
+}
+h1{
+    color: aliceblue;
+    background-color: beige;
+    color:blue;
+    padding: 15px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.h_img{
+border: 2px solid white;
+padding: 10px;
+margin-bottom: 75px;
+}
+.h_img h2{
+    background-image: url("img/visual-stories-micheile-AVqLAL23zJU-unsplash.jpg");
+    padding: 150px;
+    font-size: 60px;
+    color: crimson;
+    text-align: center;
+}
+.h_img p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    line-height: 35px;
+    border: 2px solid white;
+    padding: 8px;
+}
+
+.p_img{
+    border: 2px solid tomato;
+    padding: 10px;
+    margin-bottom: 45px;
+}
+.p_img h2{
+    background: yellowgreen;
+    padding: 15px;
+    color: black;
+    font-size: 30px;
+    border-radius: 12px;
+}
+
+.p_img p{
+    border: 2px solid white;
+    padding: 8px;
+    font-size: 25px;
+    line-height: 35px;
+    background-image: url("img/samuel-pasteur-fosse-t_OzIR3CLJQ-unsplash.jpg");
+}
