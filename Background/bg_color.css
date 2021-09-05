@@ -1,0 +1,92 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    background-color: green;
+    padding: 12px;
+    border-radius: 12px;
+    color: honeydew;
+}
+.st{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 45px;
+    padding-bottom: 5px;
+}
+
+.lg{
+    background-color: lightgreen;
+    padding: 10px;
+    margin: 10px;
+}
+.lg h2{
+    background-color: lightsalmon;
+    padding: 15px;
+    border-radius: 15px;
+}
+.lg p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    line-height: 35px;
+}
+
+.mb{
+    background-color: lightslategrey;
+    padding: 15px;
+    margin: 10px;
+}
+
+.mb h2{
+    background-color: tomato;
+    padding: 12px;
+    border-radius: 12px;
+    color: whitesmoke;
+}
+
+.mb p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    line-height: 35px;
+    background-color: yellowgreen;
+    padding: 10px;
+    border-radius: 12px;
+    color:saddlebrown;
+}
+
+.opac{
+    background-color: saddlebrown;
+    padding: 15px;
+    margin: 10px;
+}
+
+.opac h1{
+    background-color: white;
+    color: tomato;
+}
+.opac p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+.of{
+    background-color: turquoise;
+    padding: 10px;
+    border-radius: 12px;
+    opacity: 1;
+    margin-bottom: 30px;
+}
+.ot{
+    background-color: turquoise;
+    padding: 10px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    opacity: 0.5;
+}
+
+.os{
+    background-color: turquoise;
+    padding: 10px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    opacity: 0.7;
+}
