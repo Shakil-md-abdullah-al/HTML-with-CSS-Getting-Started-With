@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+body{
+    background: darkgrey;
+}
+
+h1{
+    background: darkolivegreen;
+    padding: 12px;
+    border-radius: 12px;
+}
+.im1,.rep_x,.pos{
+    border: 2px solid green;
+    padding: 10px;
+    border-radius: 12px;
+}
+.im1 p {
+    font-size: 22px;
+    line-height: 30px;
+    background-image: url("img/tree_267376982.jpg");
+    color:black;
+    font-weight: 600;
+}
+.no-rep,.grd{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 12px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.no-rep p{
+    font-size: 22px;
+    line-height: 30px;
+    background-image: url("img/tree_267376982.jpg");
+    color:black;
+    font-weight: 600;
+    background-repeat: no-repeat;
+}
+.rep_x p{
+    font-size: 22px;
+    line-height: 30px;
+    background-image: url("img/tree_267376982.jpg");
+    color:black;
+    font-weight: 600;
+    background-repeat:repeat-x;
+}
+.grd p{
+    font-size: 22px;
+    line-height: 30px;
+    background-image: url("img/Gradiant.jpg");
+    color:black;
+    font-weight: 600;
+    background-repeat:repeat-x;
+}
+.pos p{
+    font-size: 22px;
+    line-height: 30px;
+    color:black;
+    font-weight: 600;
+    height: 600px;
+    background-image: url("img/tree_267376982.jpg");
+    background-repeat: no-repeat;
+    background-position:top  right;
+}
