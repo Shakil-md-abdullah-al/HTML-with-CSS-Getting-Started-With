@@ -39,3 +39,46 @@
     border-left: 5px solid blue;
     border-radius: 0;
 }
+p{
+    font-size: 20px;
+}
+.dot p{
+    border-style: dotted;
+    padding: 10px;
+    border-radius: 12px;
+}
+.dash p{
+    border-style: dashed;
+    padding: 10px;
+    border-radius: 12px;
+}
+.sloid p{
+    border-style: solid;
+    padding: 10px;
+    border-radius: 12px;
+}
+.double{
+    border-style: double;
+    padding: 10px;
+    border-radius: 12px;
+}
+.groove p{
+    border-style: groove;
+    padding: 10px;
+    border-radius: 12px;
+}
+.ridhe{
+    border-style: ridge;
+    padding: 10px;
+    border-radius: 12px;
+}
+.inset p{
+    border-style: inset;
+    padding: 10px;
+    border-radius: 12px;
+}
+.outset p{
+    border-style: outset;
+    padding: 10px;
+    border-radius: 12px;
+}
