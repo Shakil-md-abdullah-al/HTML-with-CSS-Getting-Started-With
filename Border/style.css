@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+*{
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 1170px;
+    height: auto;
+    margin: auto;
+}
+.container h2{
+    background: chartreuse;
+    padding: 15px;
+    border-radius: 12px;
+    border: 1px solid red;
+    text-align: center;
+}
