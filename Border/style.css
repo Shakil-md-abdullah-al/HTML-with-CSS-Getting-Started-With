@@ -15,3 +15,27 @@
     border: 1px solid red;
     text-align: center;
 }
+.simple_border{
+    background-color: aliceblue;
+    margin-top: 25px;
+    border: 1px solid blue;
+    padding: 12px;
+    border-radius: 12px;
+}
+.simple_border .all{
+    border: 2px solid green;
+    background: honeydew;
+}
+.simple_border .bottom_border{
+    border-bottom: 2px solid blue;
+}
+
+.simple_border .rounded{
+    border: 2px solid maroon;
+    border-radius: 15px;
+}
+
+.simple_border .left_blue{
+    border-left: 5px solid blue;
+    border-radius: 0;
+}
